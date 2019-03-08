@@ -690,7 +690,7 @@ var __decorate = (undefined && undefined.__decorate) || function (decorators, ta
 
 var routes = [
     {
-        path: '', component: src_app_Components_wheather_home_page_wheather_home_page_component__WEBPACK_IMPORTED_MODULE_2__["WheatherHomePageComponent"]
+        path: 'test', component: src_app_Components_wheather_home_page_wheather_home_page_component__WEBPACK_IMPORTED_MODULE_2__["WheatherHomePageComponent"]
     }
 ];
 var RoutingModule = /** @class */ (function () {
